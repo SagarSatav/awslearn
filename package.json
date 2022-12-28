@@ -1,0 +1,22 @@
+{
+  "name": "awslearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aws.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SagarSatav/awslearn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SagarSatav/awslearn/issues"
+  },
+  "homepage": "https://github.com/SagarSatav/awslearn#readme",
+  "dependencies": {
+    "i": "^0.3.7"
+  }
+}
