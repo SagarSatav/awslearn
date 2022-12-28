@@ -12,5 +12,5 @@ app.get('/about',(req,res)=>{
 
     res.sendFile(path.join(__dirname,'./public/table.html'))
 })
-app.listen(5000);
-console.log("server is running on 5000");
+app.listen(1000);
+console.log("server is running on 1000");
